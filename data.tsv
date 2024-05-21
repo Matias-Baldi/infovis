@@ -1,0 +1,151 @@
+dia	Aeronave-tipo	Matrícula	Puesto a bordo	Duración del vuelo	Instrumental-duración	Real/Simulado	Nocturno	Aterrizaje-Tierra	Aterrizaje-otros	Ptap	Buques	IAC-Nro	IAC-Tipo	Instructor / alumno	Observaciones	Ruta
+2023-03-07	B06	AE-366	Piloto	1				6						CT Gandarillas	Basico	CPO-CPO
+2023-03-08	B06	AE-366	Piloto	1				7						CT Elisei	Basico	CPO-CPO
+2023-03-09	B06	AE-366	Piloto	1				6						CT Gandarillas	Basico	CPO-CPO
+2023-03-10	B06	AE-366	Piloto	1				6						CT Asensio	Basico	CPO-CPO
+2023-03-17	B06	AE-366	Piloto	1				7						CT Lavorato	Basico	CPO-CPO
+2023-04-11	AB-06-b1	AE-329	Piloto	1				7						CT Asensio	Adaptación AB	CPO-CPO
+2023-04-14	AB-06-b1	AE-329	Piloto	1				7						CT Elisei	DC1 Curso instructor	CPO-CPO
+2023-05-12	AB-06-b1	AE-329	Piloto	0.3				2						CT Martinez	Mantenimiento	CPO-CPO
+2023-05-29	AB-06-b1	AE-329	Piloto	1				7						CT Elisei	DC2 Curso instructor	CPO-CPO
+2023-05-30	AB-06-b1	AE-329	Piloto	1				7						CT Elisei	DC3 Curso instructor	CPO-CPO
+2023-05-31	B06	AE-365	Tripulante	1				0						CT Elisei	Observador	CPO-CPO
+2023-05-31	AB-06-b1	AE-329	Piloto	1.2				7						CT Elisei	DC4 Curso instructor	CPO-CPO
+2023-06-01	AB-06-b1	AE-329	Piloto	1.2				7						CT Elisei	DC5 Curso instructor	CPO-CPO
+2023-06-05	AB-06-b1	AE-329	Piloto	1.2				6						CT Elisei	DC6 Curso instructor	CPO-CPO
+2023-06-06	AB-06-b1	AE-329	Piloto	1.2				7						CT Elisei	DC7 Curso instructor	CPO-CPO
+2023-06-07	AB-06-b1	AE-329	Piloto	1.2				7						CT Elisei	DC8 Curso instructor	CPO-CPO
+2023-06-08	AB-06-b1	AE-329	Piloto	1.2				7						CT Elisei	DC9 Curso instructor	CPO-CPO
+2023-06-09	AB-06-b1	AE-329	Piloto	1				4						CT Nieto	Inspección Rendimiento	CPO-CPO
+2023-06-30	AB-06-b1	AE-329	Piloto	1				7						TN Bertuni	Adiestramiento	CPO-CPO
+2023-07-03	AB-06-b1	AE-329	Piloto	0.5				3						CT Mosto	Habilitación EBM	CPO-CPO
+2023-07-03	AB-06-b1	AE-329	Instructor	1				7						TP HAHN	Adiestramiento	CPO-CPO
+2023-07-11	B06	AE-365	Instructor	1				6						TN Bertuni	Adiestramiento	CPO-CPO
+2023-07-13	AB-06-b1	AE-329	Piloto	1				5						TN Bertuni	Adiestramiento	CPO-CPO
+2023-07-13	AB-06-b1	AE-329	Instructor	1				6						TP HAHN	Adiestramiento	CPO-CPO
+2023-08-14	B06	AE-367	Piloto	1.9				4						CT Martinez	Mantenimiento	CPO-CPO
+2023-08-28	B06	AE-368	Instructor	1				6						CT Asensio	Pinaculo y area confin.	CPO-CPO
+2023-08-28	B06	AE-368	Instructor	1.1				6						AF Llanes	Pinaculo y area confin.	CPO-CPO
+2023-08-29	B06	AE-368	Instructor	1.1				6						AF Llanes	Pinaculo y area confin.	CPO-CPO
+2023-08-30	B06	AE-367	Instructor	2.2				12						AF Daneri, AF Balcaza	Pinaculo y area confin.	CPO-CPO
+2023-08-31	B06	AE-367	Instructor	2.2				11						TC Ortiz, AF Sada	Pinaculo y area confin.	CPO-CPO
+2023-09-01	B06	AE-367	Instructor	2.2				10						TT Cafaro, Alf Ortiz	Pinaculo y area confin.	CPO-CPO
+2023-09-05	B06	AE-368	Instructor	2.2				12						AF Palacios, AF Farre	Pinaculo y area confin.	CPO-CPO
+2023-09-08	B06	AE-368	Instructor	2.2				10						TC Sanchez, AF Palacios	Pinaculo y area confin.	CPO-CPO
+2023-09-12	B06	AE-366	Instructor	0.5				1						CT Elisei	Mantenimiento	CPO-CPO
+2023-09-12	B06	AE-368	Instructor	2.2				12						TT Cafaro, AF Farre	Pinaculo y area confin.	CPO-CPO
+2023-09-13	AB-06-b1	AE-329	Instructor	1.1				6						TT Dominguez	Pinaculo y area confin.	CPO-CPO
+2023-09-13	AB-06-b1	AE-329	Piloto	0.5				3						CT Mosto	Adiestramiento Tactico	CPO-CPO
+2023-09-14	B06	AE-366	Instructor	1			1	4						CT Mosto	Nocturno	CPO-CPO
+2023-09-14	B06	AE-366	Instructor	1			1	5						TT Ortellado	Nocturno	CPO-CPO
+2023-09-15	AB-06-b1	AE-329	Instructor	0.5				4						Ct Mosto	Adiestramiento Tactico	CPO-CPO
+2023-09-15	AB-06-b1	AE-329	Instructor	1.1				5						ST Gallardo	Pinaculo y area confin.	CPO-CPO
+2023-09-15	AB-06-b1	AE-329	Instructor	1.1				6						ST Dominguez	Pinaculo y area confin.	CPO-CPO
+2023-09-18	B06	AE-366	Instructor	2.2				12						AF Palacios, TT Cafaro	Adiestramiento Tactico	CPO-CPO
+2023-09-19	AB-06-b1	AE-329	Instructor	0.2				0						ST Gallardo	Puesta en marcha y corte	CPO-CPO
+2023-09-20	B06	AE-366	Instructor	2.4				14						AF Llanes, AF Palacios	Adiestramiento Tactico	CPO-CPO
+2023-09-22	B06	AE-368	Instructor	1.1				6						AF Farre	Adiestramiento Tactico	CPO-CPO
+2023-09-25	AB-06-b1	AE-329	Instructor	2.7				11						TT Dominguez, ST Gallardo	Adiestramiento Tactico	CPO-CPO
+2023-09-26	B06	AE-368	Instructor	1.2				6						TC Sanchez	Adiestramiento Tactico	CPO-CPO
+2023-09-27	AB-06-b1	AE-329	Instructor	1				3						ST Gallardo	Formación	CPO-CPO
+2023-09-28	B06	AE-367	Instructor	1				6						TT Cafaro	Nocturno	CPO-CPO
+2023-09-28	B06	AE-367	Instructor	1				7						AF Farre	Nocturno	CPO-CPO
+2023-09-29	AB-06-b1	AE-329	Instructor	1.5				3						ST Gallardo	Formación	CPO-ESCOBAR-CPO
+2023-10-02	B06	AE-368	Instructor	1				2						AF Ortiz	Helicorredor 2	CPO-
+2023-10-02	B06	AE-368	Instructor	1				2						TC Sanchez	Helicorredor 2	CPO-
+2023-10-03	B06	AE-366	Instructor	1.6	1.6	Simulado		3						AF Balcaza	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-17	B06	AE-368	Instructor	1.5	1.5	Simulado		1						AF Daneri 	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-18	B06	AE-366	Instructor	1.5	1.5	Simulado		1						AF Palacios	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-18	B06	AE-366	Instructor	1.5	1.5	Simulado		1						TT Ortellado	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-19	B06	AE-366	Instructor	1.5	1.5	Simulado		1						AF Farre	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-19	B06	AE-367	Instructor	0.5				1						CT Lavorato	Carga externa	CPO-CPO
+2023-10-19	B06	AE-367	Instructor	0.5				1						TT Dominguez	Carga externa	CPO-CPO
+2023-10-19	B06	AE-367	Instructor	0.5				1						TC Ortiz  	Carga externa	CPO-CPO
+2023-10-20	B06	AE-366	Instructor	1.5	1.5	Simulado		1						ST Gallardo	Instrumental Basico	CPO-ESCOBAR-CPO
+2023-10-23	B06	AE-367	Instructor	1				3						AF Farre	Formación	CPO-CPO
+2023-10-24	B06	AE-367	Instructor	1				3						TC Sanchez	Formación	CPO-CPO
+2023-10-25	B06	AE-366	Instructor	1.5				3						AF Sada	Formación	CPO-ESCOBAR-CPO
+2023-10-26	AB-06-b1	AE-329	Instructor	1.5				5						TT Ortellado	Formación	CPO-ESCOBAR-CPO
+2023-10-27	B06	AE-365	Instructor	1.5				3						AF Balcaza	Formación	CPO-ESCOBAR-CPO
+2023-10-27	B06	AE-368	Instructor	1.5				4						AF Balcaza	Formación	CPO-ESCOBAR-CPO
+2023-10-30	B06	AE-365	Instructor	1.5				4						TC Ortiz	Formación	CPO-ESCOBAR-CPO
+2023-10-31	B06	AE-367	Instructor	2	2	Simulado		1						TT Ortellado	Radioelectrico	CPO-SAAA-CPO
+2023-11-01	B06	AE-365	Instructor	2				1						AF Ortiz	Navegación	CPO-ENO-MSP-GLH-NVR-MRD-SNT-ATE-LEN-CPO
+2023-11-01	B06	AE-365	Instructor	2	2	Simulado		2						AF Palacios	Radioelectrico	CPO-SAAA-CPO
+2023-11-06	B06	AE-368	Instructor	2	2	Simulado		2						AF Dominguez	Radioelectrico	CPO-SAAA-CPO
+2023-11-07	B06	AE-368	Instructor	2	2	Simulado		2						AF Sada	Radioelectrico	CPO-SAAA-CPO
+2023-11-09	B06	AE-368	Instructor	2				1						AF Farre	Navegación	CPO-ENO-MSP-GLH-NVR-MRD-SNT-ATE-LEN-CPO
+2023-11-09	B06	AE-368	Instructor	2				1						TT Dominguez	Navegación	CPO-ENO-MSP-GLH-NVR-MRD-SNT-ATE-LEN-CPO
+2023-11-13	B06	AE-365	Instructor	2				1						AF Sada	Navegación	CPO-ENO-MSP-GLH-NVR-MRD-SNT-ATE-LEN-CPO
+2023-11-14	B06	AE-365	Instructor	2				1						AF Palacios	Navegación	CPO-ENO-MSP-GLH-NVR-MRD-SNT-ATE-LEN-CPO
+2023-11-16	AB-06-b1	AE-329	Instructor	2.2				1						TT Dominguez	Navegación	CPO-Rosario
+2023-11-16	AB-06-b1	AE-329	Instructor	2.2				1						ST Gallardo	Navegación	Rosario-CPO
+2023-11-17	B06	AE-367	Instructor	2.4				1						AF Farre	Navegación	CPO-PDI-CPO
+2023-11-21	AB-06-b1	AE-329	Instructor	2				1						ST Gallardo	Navegación	CPO-VNO
+2023-11-21	AB-06-b1	AE-329	Instructor	2.4				1						TT Ortellado	Navegación	VNO-CPO
+2023-11-22	B06	AE-367	Instructor	2.6				1						TC Sanchez	Navegación	CPO-SAAR
+2023-11-22	B06	AE-367	Instructor	2.2				1						AF Balcaza	Navegación	SAAR-CPO
+2023-11-23	B06	AE-368	Instructor	1.3				4						AF Llanes	Navegación	CPO-PDI
+2023-11-23	B06	AE-368	Instructor	1.3				2						AF Sada	Navegación	PDI-CPO
+2023-11-24	B06	AE-366	Instructor	2.6				1						TC Ortiz	Navegación	CPO-PAR
+2023-11-24	B06	AE-366	Instructor	2.5				1						AF Ortiz	Navegación	PAR-CPO
+2023-12-11	B06	AE-366	Piloto	1.3				1						CT Mosto	Navegación	CPO-PDI
+2023-12-11	B06	AE-366	Piloto	1.3				1						CT Mosto	Navegación	PDI-CPO
+2024-02-05	B06	AE-367	Piloto	1				6						CT Martinez	Adiestramiento	CPO-CPO
+2024-02-06	B06	AE-367	Piloto	1				5						TN Bertuni	Adiestramiento	CPO-CPO
+2024-02-14	AB-06-b1	AE-329	Piloto	1				6						CT Hahn	Adiestramiento	CPO-CPO
+2024-02-16	AB-06-b1	AE-329	Instructor	1				6						TN Bertuni	Adiestramiento	CPO-CPO
+2024-02-19	AB-06-b1	AE-329	Piloto	1.4				7						CT Martinez	Adiestramiento	CPO-CPO
+2024-02-21	B06	AE-367	Instructor	1				4						CT Hahn	Adiestramiento	CPO-CPO
+2024-02-22	B06	AE-366	Instructor	1.6				7						TN Bertuni	Adiestramiento	CPO-CPO
+2024-02-23	B06	AE-367	Piloto	1				5						CT Turtora	Adiestramiento	CPO-CPO
+2024-02-28	B06	AE-366	Piloto	1				4						CT Turtora	Adiestramiento	CPO-CPO
+2024-02-29	B06	AE-366	Instructor	1				6						TN Bertuni	Adiestramiento	CPO-CPO
+2024-03-18	AB-06-b1	AE-329	Instructor	1				7						TN Bertuni	Adiestramiento	CPO-CPO
+2024-03-19	B06	AE-367	Piloto	1.2				5						CT Turtora	Adiestramiento	CPO-CPO
+2024-03-21	B06	AE-367	Piloto	2				6						CT Turtora	Adiestramiento	CPO-CPO
+2024-03-25	B06	AE-367	Instructor	0.7				3						AF Santilli	Basico	CPO-CPO
+2024-03-25	B06	AE-367	Instructor	0.7				2						AF Haykir	Basico	CPO-CPO
+2024-03-26	B06	AE-365	Instructor	0.7				2						AF Haykir	Basico	CPO-CPO
+2024-03-26	B06	AE-365	Instructor	0.7				2						AF Santilli	Basico	CPO-CPO
+2024-03-27	AB-06-b1	AE-314	Piloto	0.6				3						Tn Bertuni	Adiestramiento	CPO-CPO
+2024-03-27	B06	AE-367	Instructor	0.7				2						AF Santilli	Basico	CPO-CPO
+2024-03-27	B06	AE-367	Instructor	0.7				2						AF Haykir	Basico	CPO-CPO
+2024-04-04	AB-06-b1	AE-314	Instructor	0.7				6						TN Bertuni	Adiestramiento	CPO-CPO
+2024-04-08	B06	AE-365	Instructor	0.7				2						AF Santilli	Basico	CPO-CPO
+2024-04-08	B06	AE-365	Instructor	0.7				3						AF Haykir	Basico	CPO-CPO
+2024-04-09	B06	AE-365	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-04-09	B06	AE-365	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-04-10	B06	AE-367	Instructor	1				4						AF Haykir	Basico	CPO-CPO
+2024-04-10	B06	AE-367	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-04-11	B06	AE-368	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-04-11	B06	AE-368	Instructor	1				5						AF Santilli	Basico	CPO-CPO
+2024-04-16	B06	AE-367	Instructor	1				7						AF Haykir	Basico	CPO-CPO
+2024-04-17	B06	AE-367	Instructor	1				7						AF Haykir	Basico	CPO-CPO
+2024-04-17	B06	AE-367	Instructor	1				6						AF Santilli	Basico	CPO-CPO
+2024-04-18	B06	AE-367	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-04-18	B06	AE-367	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-04-19	B06	AE-368	Instructor	1				6						AF Haykir	Basico	CPO-CPO
+2024-04-19	B06	AE-368	Instructor	1				7						AF Santilli	Basico	CPO-CPO
+2024-04-23	B06	AE-367	Instructor	1				5						AF Santilli	Basico	CPO-CPO
+2024-04-24	B06	AE-367	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-04-24	B06	AE-367	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-04-25	B06	AE-367	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-04-25	B06	AE-367	Instructor	1				6						AF Haykir	Basico	CPO-CPO
+2024-04-29	B06	AE-367	Instructor	1				5						AF Santilli	Basico	CPO-CPO
+2024-04-29	B06	AE-367	Instructor	1				7						AF Haykir	Basico	CPO-CPO
+2024-05-02	B06	AE-367	Instructor	1				5						AF Santilli	Basico	CPO-CPO
+2024-05-02	B06	AE-367	Instructor	1				6						AF Haykir	Basico	CPO-CPO
+2024-05-06	B06	AE-368	Instructor	1				4						AF Haykir	Basico	CPO-CPO
+2024-05-08	B06	AE-368	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-05-08	B06	AE-368	Instructor	1				6						AF Santilli	Basico	CPO-CPO
+2024-05-09	B06	AE-368	Instructor	1				4						AF Santilli	Basico	CPO-CPO
+2024-05-10	B06	AE-367	Instructor	1				5						AF Haykir	Basico	CPO-CPO
+2024-05-10	B06	AE-367	Instructor	1				6						AF Santilli	Basico	CPO-CPO
+2024-05-13	B06	AE-368	Instructor	1				7						AF Haykir	Basico	CPO-CPO
+2024-05-13	B06	AE-368	Instructor	1				5						AF Santilli	Basico	CPO-CPO
+2024-05-14	AB-06-b1	AE-329	Piloto	0.9				4						CT Gandarillas	Adiestramiento	CPO-CPO
+2024-05-15	B06	AE-368	Instructor	1.2				6						AF Haykir	Basico	CPO-CPO
+2024-05-15	B06	AE-368	Instructor	1.2				4						AF Santilli	Basico	CPO-CPO
+2024-05-17	B06	AE-368	Instructor	1.2				7						AF Santilli	Basico	CPO-CPO
+2024-05-17	B06	AE-368	Instructor	1.2				5						AF Haykir	Basico	CPO-CPO
